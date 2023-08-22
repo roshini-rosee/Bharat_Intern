@@ -22,7 +22,7 @@ This project is a video conferencing website that allows users to have real-time
 - HTML
 - CSS
 - JavaScript
-- 
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
